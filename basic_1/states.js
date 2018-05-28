@@ -12,15 +12,29 @@ const fsmRecord = (lifecycle)=>{
 
 }
 
-const fsmAnalize = (fsm)=>{
-  console.log('-> Analizing profile.'); 
+const fsmFinish = (fsm)=>{
+  console.log('-> END'); 
 }
 
-const fsmFinish = (fsm)=>{
+const fsmAcept = (fsm)=>{
   console.log('->'); 
+}
+
+const fsmReject = (fsm)=>{
+  console.log('->'); 
+}
+
+const fsmAnalizeCredit = (a,b)=>{
+	
+	console.log('-> Analizing profile.'); 
+	console.log('*',a,b);
+	return 'acept';
+
 }
 
 module.exports.onStart   = fsmStart;
 module.exports.onRecord  = fsmRecord;
-module.exports.onAnalize = fsmAnalize;
+module.exports.onAnalize = fsmAnalizeCredit;
 module.exports.onFinish  = fsmFinish;
+module.exports.onAcept   = fsmAcept;
+module.exports.onReject  = fsmReject;
