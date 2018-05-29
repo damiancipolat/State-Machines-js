@@ -1,7 +1,7 @@
 # State-Machines-js
 > "En esta sección hay ejemplos basicos de maquinas de estado usando Node.js y el modulo npm javascript-state-machine"
 
-## Ejemplos:
+### Ejemplos:
 
 - **door.js**: 
 
