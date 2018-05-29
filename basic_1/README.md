@@ -23,7 +23,7 @@
   
   Diagrama:
   
-  ![N|Solid]()
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_2.png?raw=true)
 
   Ejecutar:
   
