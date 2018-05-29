@@ -19,7 +19,7 @@
 
 - **door_safe.js**: 
 
-  Ejemplo de puerta automatica, en el sig. digrafo pueden verse los tres estados que reflejan a la puerta incluyendo sus bloqueos.
+  Ejemplo de puerta con bloqueo, en el sig. digrafo pueden verse los tres estados que reflejan a la puerta incluyendo sus bloqueos.
   
   Diagrama:
   
