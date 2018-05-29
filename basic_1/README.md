@@ -33,7 +33,7 @@
 
 - **life.js**: 
 
-  Ejemplo de puerta con bloqueo, en el sig. digrafo pueden verse los tres estados que reflejan a la puerta incluyendo sus bloqueos.
+  Ejemplo de un día común, ir al trabajo y luego volver al hogar.
   
   Diagrama:
   
@@ -43,4 +43,18 @@
   
   ```sh   
    $ node life.js
+  ```
+
+- **switch.js**: 
+
+  Ejemplo del manejo de un interruptor electrico.
+  
+  Diagrama:
+  
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_4.png?raw=true)
+
+  Ejecutar:
+  
+  ```sh   
+   $ node switch.js
   ```
