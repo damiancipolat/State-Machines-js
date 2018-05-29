@@ -30,3 +30,17 @@
   ```sh   
    $ node door_safe.js
   ```
+
+- **life.js**: 
+
+  Ejemplo de puerta con bloqueo, en el sig. digrafo pueden verse los tres estados que reflejan a la puerta incluyendo sus bloqueos.
+  
+  Diagrama:
+  
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_3.png?raw=true)
+
+  Ejecutar:
+  
+  ```sh   
+   $ node life.js
+  ```
