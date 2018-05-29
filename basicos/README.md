@@ -9,7 +9,7 @@
   
   Diagrama:
   
-  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basicos/docs/diagram_1.png?raw=true)
 
   Ejecutar:
   
@@ -23,7 +23,7 @@
   
   Diagrama:
   
-  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_2.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basicos/docs/diagram_2.png?raw=true)
 
   Ejecutar:
   
@@ -37,7 +37,7 @@
   
   Diagrama:
   
-  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_3.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basicos/docs/diagram_3.png?raw=true)
 
   Ejecutar:
   
@@ -51,7 +51,7 @@
   
   Diagrama:
   
-  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_4.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basicos/docs/diagram_4.png?raw=true)
 
   Ejecutar:
   
