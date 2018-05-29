@@ -12,9 +12,10 @@ Libro sobre algoritmos de inteligencia artificial, me centro en el contenido del
 - Traductores
 - Termometro
 - Robot
-**[Ir a ejemplos IA]**
 
-[Ir a ejemplos IA]:https://github.com/damiancipolat/Nodejs-Design-Pattern/blob/master/README.md#factory
+**[Ir a ejemplos libro IA]**
+
+[Ir a ejemplos libro IA]:https://github.com/damiancipolat/Nodejs-Design-Pattern/blob/master/README.md#factory
 
 ### Autómatas finitos y expresiones regilares:
 Libro sobre expresiones regulares, gramaticas, lenguajes y automatas finitos, me centro en el capitulo 4.
