@@ -23,10 +23,10 @@
   
   Diagrama:
   
-  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_2.png?raw=true)
 
   Ejecutar:
   
   ```sh   
-   $ node door.js
+   $ node door_safe.js
   ```
