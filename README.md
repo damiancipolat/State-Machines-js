@@ -28,3 +28,6 @@ Libro sobre expresiones regulares, gramaticas, lenguajes y automatas finitos, me
 **[Ir a ejemplos libro automatas]**
 
 [Ir a ejemplos libro automatas]:https://github.com/damiancipolat/Nodejs-Design-Pattern/blob/master/README.md#factory
+
+### - Ejemplos adicionales:
+Lista de ejemplos de uso de MEF, para casos reales.
