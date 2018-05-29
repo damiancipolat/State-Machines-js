@@ -8,9 +8,11 @@
   Ejemplo de puerta automatica, en el sig. digrafo pueden verse los dos estados que reflejan a la puerta y sus dos acciones.
   
   Diagrama:
+  
   ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
 
-  ```sh
-   # Ejecutar 
+  Ejecutar:
+  
+  ```sh   
    $ node door.js
   ```
