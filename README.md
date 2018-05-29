@@ -19,3 +19,12 @@ Libro sobre algoritmos de inteligencia artificial, me centro en el contenido del
 
 ### Autómatas finitos y expresiones regilares:
 Libro sobre expresiones regulares, gramaticas, lenguajes y automatas finitos, me centro en el capitulo 4.
+
+**Ejemplos:**
+- Reconocedores
+- Expresiones regulares
+- Analizador lexico
+
+**[Ir a ejemplos libro automatas]**
+
+[Ir a ejemplos libro automatas]:https://github.com/damiancipolat/Nodejs-Design-Pattern/blob/master/README.md#factory
