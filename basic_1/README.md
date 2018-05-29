@@ -5,13 +5,13 @@
 
 - **door.js**: 
 
-Ejemplo de puerta automatica, asdasdas sdfsdfsdfsd dsf sdf
+  Ejemplo de puerta automatica, asdasdas sdfsdfsdfsd dsf sdf
 
-![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
 
-```sh
-$ node door.js
-```
+  ```sh
+   $ node door.js
+  ```
 - **door2.js**: Ejemplo de puerta automatica.
 ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/basic_1/docs/diagram_1.png?raw=true)
 
