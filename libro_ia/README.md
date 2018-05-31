@@ -16,3 +16,17 @@
   ```sh   
    $ node sensor_temperatura.js
   ```
+
+- **robot.js**: 
+
+  Ejemplo de una maquina de estados que controla a un robot.
+  
+  Diagrama:
+  
+  ![N|Solid](https://github.com/damiancipolat/State-Machines-js/blob/master/libro_ia/doc/robot.png?raw=true)
+
+  Ejecutar:
+  
+  ```sh   
+   $ node robot.js
+  ```
