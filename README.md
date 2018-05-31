@@ -15,7 +15,7 @@ Libro sobre algoritmos de inteligencia artificial, me centro en el contenido del
 
 **[Ir a ejemplos libro IA]**
 
-[Ir a ejemplos libro IA]:https://github.com/damiancipolat/Nodejs-Design-Pattern/blob/master/README.md#factory
+[Ir a ejemplos libro IA]:https://github.com/damiancipolat/State-Machines-js/tree/master/libro_ia
 
 ### - Autómatas finitos y expresiones regulares:
 Libro sobre expresiones regulares, gramaticas, lenguajes y automatas finitos, me centro en el capitulo 4.
