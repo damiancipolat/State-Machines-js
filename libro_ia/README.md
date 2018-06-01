@@ -1,5 +1,5 @@
 # Ejemplos Libro Inteligencia Artificial (Red USERS)
-> "Maquinas de estado finito, sacas del libro del capitulo II."
+> "Maquinas de estado finito, sacas del libro del capitulo II, tener en cuenta que los ejemplos del libro son en C#."
 
 ### Archivos:
 
