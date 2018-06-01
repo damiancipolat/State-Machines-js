@@ -8,8 +8,8 @@ Armo este repositorio, recopilando material de estos dos libros que lei hace un 
 Libro sobre algoritmos de inteligencia artificial, me centro en el contenido del capitulo 2 Maquinas de estado finito **(MEF)**.
 
 **Ejemplos:**
-- Reconocedores
-- Traductores
+- --Reconocedores--
+- --Traductores--
 - Termometro
 - Robot
 
