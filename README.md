@@ -10,7 +10,7 @@ Libro sobre algoritmos de inteligencia artificial, me centro en el contenido del
 **Ejemplos:**
 - Termometro
 - Robot
-No cubiertos por el libro: **Reconocedores, Traductores**
+- No cubiertos por el libro: *Reconocedores, Traductores*
 
 **[Ir a ejemplos libro IA]**
 
