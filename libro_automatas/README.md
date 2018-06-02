@@ -5,8 +5,8 @@
 
 - **reconocedor_1.js**: 
 
-  Ejemplo de automata finito,que permite determinar si una cadena dada responde un patron preestablecido que corresponde a un lenguaje infinito;
-  en otros terminos, esto significa verificar si una cadena es una palabra de un Lenguaje Regular infinito dado.
+  Ejemplo de automata finito,que permite determinar si una cadena dada responde un patron preestablecido que corresponde a un lenguaje infinito;  en otros terminos, esto significa verificar si una cadena es una palabra de un Lenguaje Regular infinito dado.
+  En este caso reconoce lenguajes compuesto con numeros del 0 al 9 y con los simbolos '+' y '-' delante.
   
   Diagrama:
   
