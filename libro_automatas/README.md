@@ -20,14 +20,15 @@
 
 - **reconocedor_accionador.js**:
 
-Es una extensión del automata anterior, agrega a la capacidad de reconocer el realizar acciones en cada estado.
-Se usa el AFD (diagrama anterior), para reconocer "Todos los números enteros en base 10, que pueden estar precedidos por un signo".
+    Es una extensión del automata anterior, agrega a la capacidad de reconocer el realizar acciones en cada estado.
+    Se usa el AFD (diagrama anterior), para reconocer "Todos los números enteros en base 10, que pueden estar precedidos por un signo".
 
-  **Algoritmo**:
-  Caracter a analizar: primer caracter de la cadena
-  estado actual del automata: estado inicial
-  Mientras haya caracteres en la cadena, repetir:
-    1) Determinar el nuevo estado actual (estado de llegagada de la transición).
-    2) Llevar a cabo la acción correspondiente.
-    3) Actualizar el carácter a analizar.
-  Si el último estado actual es un estado final, entonces la cadena procesada es una palabra del lenguaje, caso contrario, la cadena no pertenece al lenguaje.
+    **Algoritmo**:
+    - Caracter a analizar: primer caracter de la cadena 
+    - Estado actual del automata: estado inicial
+    
+    Mientras haya caracteres en la cadena, repetir:
+      1) Determinar el nuevo estado actual (estado de llegagada de la transición).
+      2) Llevar a cabo la acción correspondiente.
+      3) Actualizar el carácter a analizar.
+    Si el último estado actual es un estado final, entonces la cadena procesada es una palabra del lenguaje, caso contrario, la cadena no pertenece al lenguaje.
