@@ -3,7 +3,7 @@
 
 ### Archivos:
 
-- **reconocedor_1.js**: 
+- **Reconocedor**: reconocedor_1.js
 
   Ejemplo de automata finito,que permite determinar si una cadena dada responde un patron preestablecido que corresponde a un lenguaje infinito;  en otros terminos, esto significa verificar si una cadena es una palabra de un Lenguaje Regular infinito dado.
   En este caso reconoce lenguajes compuesto con numeros del 0 al 9 y con los simbolos '+' y '-' delante.
@@ -18,7 +18,7 @@
    $ node reconocedor_1.js
   ```
 
-- **reconocedor_accionador.js**:
+- **Reconocedor y accionador**:reconocedor_accionador.js
 
     Es una extensión del automata anterior, agrega a la capacidad de reconocer el realizar acciones en cada estado.
     Se usa el AFD (diagrama anterior), para reconocer "Todos los números enteros en base 10, que pueden estar precedidos por un signo".
