@@ -16,3 +16,13 @@
   ```sh   
    $ node credits_analyzer.js
   ```
+
+- **Publicación de notas**: 
+
+ Ejemplo de una maquina de estados para validar la publicación de notas on-line.
+  
+  Ejecutar:
+  
+  ```sh   
+   $ node news_analyzer.js
+  ```
