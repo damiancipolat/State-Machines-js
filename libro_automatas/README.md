@@ -35,7 +35,7 @@
       
     Si el último estado actual es un estado final, entonces la cadena procesada es una palabra del lenguaje, caso contrario, la cadena no pertenece al lenguaje.
     
-      Ejecutar:
+     Ejecutar:
   
   ```sh   
    $ node reconocedor_accionador.js
