@@ -5,7 +5,7 @@
 
 - **Creditos**: 
 
-  Ejemplo de un sensor de temperatura que activa o desactiva un interruptor, si la misma supera los 50°C.
+ Ejemplo de una maquina de estados para validar solicitudes de credito.
   
   Diagrama:
   
