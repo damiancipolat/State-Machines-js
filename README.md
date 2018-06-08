@@ -30,3 +30,6 @@ Libro sobre expresiones regulares, gramaticas, lenguajes y automatas finitos, me
 
 ### - Ejemplos adicionales:
 Lista de ejemplos de uso de MEF para escenarios reales.
+
+- Análisis de creditos.
+- Publicación de notas.
