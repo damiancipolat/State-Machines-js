@@ -40,3 +40,7 @@
   ```sh   
    $ node reconocedor_accionador.js
   ```
+
+- **Analizador lexico**:analizador_lexico.js
+
+    
