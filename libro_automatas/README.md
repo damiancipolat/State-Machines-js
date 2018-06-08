@@ -42,5 +42,5 @@
   ```
 
 - **Analizador lexico**:analizador_lexico.js
-
+Pendiente...
     
