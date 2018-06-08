@@ -28,7 +28,9 @@
     - Estado actual del automata: estado inicial
     
     Mientras haya caracteres en la cadena, repetir:
+    
       1) Determinar el nuevo estado actual (estado de llegagada de la transición).
       2) Llevar a cabo la acción correspondiente.
       3) Actualizar el carácter a analizar.
+      
     Si el último estado actual es un estado final, entonces la cadena procesada es una palabra del lenguaje, caso contrario, la cadena no pertenece al lenguaje.
